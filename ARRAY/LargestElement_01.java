@@ -1,9 +1,6 @@
 // Time Complexity : O(n)
 // Space Complexity : O(1)
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
-
 public class LargestElement_01{
     public static int findLargest(int[] a){
         int max=Integer.MIN_VALUE;
